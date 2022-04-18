@@ -1,3 +1,4 @@
 .env
 instagram.py
 chromedriver_win32
+.gitignore
