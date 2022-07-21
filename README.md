@@ -1,6 +1,6 @@
 # Selenium script to automate attendance at user specified time
 
-## #Usage
+## Usage
 
 + pip install -r requirements.txt
 + Use a service object instead of specifying the path to a donwloaded driver as it has been depracated 
