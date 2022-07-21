@@ -1,4 +1,4 @@
-# Selenium script to automate attendance at user specified time
+# Script to automate attendance at user specified time
 
 ## Usage
 
