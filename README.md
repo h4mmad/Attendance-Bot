@@ -1,4 +1,4 @@
-## The purpose of this project was to automate attendance registration of online classes at my university. Since classes were at 3am for me, I could not be awake and attend the classes. I would watch the recorded lectures at my comfort and with 2x speed saving time :)
+## The purpose of this project was to automate attendance registration of online classes at my university. Since classes were at 3am for me, I could not be awake and attend the classes. I would watch the recorded lectures at my comfort with 2x speed saving time :)
 
 ## Config
 
